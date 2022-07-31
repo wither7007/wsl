@@ -1,0 +1,138 @@
+gci
+cd
+ls
+lt
+ls -a
+python
+gci
+exit
+nv
+nvim
+alias
+whoami
+curl 
+curl "https://www.umn.edu"
+ps
+top
+exit
+uname -a
+gci
+lt -a
+man ls
+man get
+man curl
+man wget
+notepad
+n
+c:
+/mnt/c
+alias
+exit
+gci
+ (Get-ChildItem -Directory | Measure-Object).Count
+lt
+ls
+gci
+ (Get-ChildItem | Measure-Object).Count
+ls | g -
+ls | nvim -
+ranger
+function his(){`
+Copy-Item "C:\Users\jayst\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt" -destination "c:\all\his"`
+`
+g C:\all\his`
+}
+his
+exit
+c:
+cd c:
+dir
+ls
+c
+psversion
+gci
+edit
+exit
+lt
+ls
+explorer
+exit
+gci
+gci | % { $_.fullname }
+notepad
+ls -lht
+apt-list
+apt list
+gcm
+gcm vim
+uname
+uname -a
+html2text
+gcm html2text
+ls | grep a
+pss
+Get-Process | sort-object cpu -descending | vim -
+get-mycommand
+exit
+alias
+gci
+get-process
+get-process | gm
+get-process
+g
+vim
+uname -a
+htops
+htop
+exit
+get-process
+gci
+get-service
+Get-Service
+cd \all
+c
+$home
+lt
+ls
+uname
+uname -a
+Get-ChildItem | % {$_.fullname}
+exit
+gci 
+gci *.rc
+gci *.rc -Recurse
+dir
+gci *.sh
+gci *.sh -recurse
+ps
+ps | v -
+alias
+ps | vim -
+exit
+function pss() {`
+Get-Process | sort-object cpu -descending | nvim -`
+}
+pss
+nvim
+pss
+exit
+gci
+fm .
+c
+gci | % fullname
+gci -Force | % fullname
+$a=(gci -Force | % fullname)
+$a
+lt
+ls
+his
+history
+alias
+whoami
+uname
+ls -a
+ls -lhrt
+apt list --installed
+history
+ps
+exit
