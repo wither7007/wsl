@@ -120,6 +120,12 @@ d/mnt/c/you
 d/home/steff007
 	.bash_aliases
 10
+d/usr/lib/python3/dist-packages
+	netifaces.cpython-38-x86_64-linux-gnu.so
+13
+d/home/steff007
+	ssh
+15
 d
 
 # Right window history (oldest to newest):
@@ -140,17 +146,14 @@ D
 /ali
 /bas
 /yo
+/z
 
 # Prompt history (oldest to newest):
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/mnt/c/.vifm-Trash-1000/000_gridcc
-""/mnt/c/.vifm-Trash-1000/000_grids
-""/mnt/c/.vifm-Trash-1000/000_hn
-""/mnt/c/.vifm-Trash-1000/000_jup
-""/mnt/c/.vifm-Trash-1000/000_lib
+""/home/steff007/.local/share/vifm/Trash/000_pod
 
 # Directory stack (oldest to newest):
 
@@ -295,6 +298,14 @@ t/mnt/c/.vifm-Trash-1000/000_jup
 	/mnt/c/projects/jup
 t/mnt/c/.vifm-Trash-1000/000_lib
 	/mnt/c/projects/lib
+t/home/steff007/.local/share/vifm/Trash/000_exa_0.9.0-4_amd64.deb
+	/home/steff007/exa_0.9.0-4_amd64.deb
+t/home/steff007/.local/share/vifm/Trash/000_cpro
+	/home/steff007/cpro
+t/home/steff007/.local/share/vifm/Trash/000_music
+	/home/steff007/music
+t/home/steff007/.local/share/vifm/Trash/000_pod
+	/home/steff007/pod
 
 # State:
 f
