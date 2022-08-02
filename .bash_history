@@ -1,7 +1,3 @@
-ls *v*
-echo $vim
-v
-ls -a
 v .vimvrc
 fm .
 ls -a
@@ -497,4 +493,8 @@ ls -a
 source .bash_aliases 
 zah
 zsh
+exit
+cd
+zsh
+python
 exit
