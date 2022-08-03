@@ -124,8 +124,8 @@ d/usr/lib/python3/dist-packages
 	netifaces.cpython-38-x86_64-linux-gnu.so
 13
 d/home/steff007
-	.bash_aliases
-18
+	pip
+22
 d
 
 # Right window history (oldest to newest):
